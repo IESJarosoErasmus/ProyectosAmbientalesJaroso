@@ -10,9 +10,9 @@
         HUGO_ENV = "production"
 
 [context.branch-deploy]
-    command = "hugo --gc -b ${DEPLOY_PRIME_URL}"
+    command = "hugo --gc --themesDir themes/stack -b ${DEPLOY_PRIME_URL}"
 
 [context.deploy-preview]
-    command = "hugo --gc -b ${DEPLOY_PRIME_URL}"
+    command = "hugo --gc --themesDir themes/stack -b ${DEPLOY_PRIME_URL}"
 
 
