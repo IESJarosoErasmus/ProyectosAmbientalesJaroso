@@ -5,15 +5,15 @@
     HUGO_VERSION = "0.93.2"
 
 [context.production]
-    command = "hugo --gc --themesDir themes/stack -b ${URL}"
+    command = "hugo --gc -b ${URL}"
     [context.production.environment]
         HUGO_ENV = "production"
 
 [context.branch-deploy]
-    command = "hugo --gc --themesDir themes/stack -b ${DEPLOY_PRIME_URL}"
+    command = "hugo --gc -b ${DEPLOY_PRIME_URL}"
 
 [context.deploy-preview]
-    command = "hugo --gc --themesDir themes/stack -b ${DEPLOY_PRIME_URL}"
+    command = "hugo --gc -b ${DEPLOY_PRIME_URL}"
 
 [[plugins]]
     package = "netlify-plugin-hugo-cache-resources"
