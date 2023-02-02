@@ -3,7 +3,6 @@
 
 [build.environment]
     HUGO_VERSION = "0.93.2"
-    HUGO_THEME = "stack"
 
 [context.production]
     command = "hugo --gc --themesDir ../.. -b ${URL}"

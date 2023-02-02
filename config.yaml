@@ -1,6 +1,6 @@
 baseurl: https://example.com
 languageCode: es-ES
-theme: Stack
+theme: stack
 paginate: 5
 title: Proyectos ambientales IES Jaroso
 
