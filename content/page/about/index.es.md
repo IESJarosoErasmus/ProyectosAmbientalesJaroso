@@ -23,3 +23,7 @@ Coordinador de área de FP. IES Jaroso
 Profesora CFGM Operaciones de Laboratorio   
 Jefa de estudios nocturnos. IES Jaroso   
 <laboratorio.iesjaroso@gmail.com>   
+
+- **Javier Guillén Benavente**  
+Profesor CFGS Desarrollo de Aplicaciones Web    
+<jguiben709@g.educaand.es>  
