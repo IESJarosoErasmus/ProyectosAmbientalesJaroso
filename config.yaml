@@ -145,3 +145,9 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
+module:
+  module.imports:
+    path: "https://github.com/CaiJimmy/hugo-theme-stack"
+    disable: false
+
