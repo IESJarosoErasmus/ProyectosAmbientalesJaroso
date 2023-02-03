@@ -2,7 +2,7 @@
     publish = "public"
 
 [build.environment]
-    HUGO_VERSION = "0.98.2"
+    HUGO_VERSION = "0.110.0"
 
 [context.production]
     command = "hugo --gc -b ${URL}"
@@ -10,8 +10,8 @@
         HUGO_ENV = "production"
 
 [context.branch-deploy]
-    command = "hugo --gc --themesDir themes/stack -b ${DEPLOY_PRIME_URL}"
+    command = "hugo --gc  -b ${DEPLOY_PRIME_URL}"
 
 [context.deploy-preview]
-    command = "hugo --gc --themesDir themes/stack -b ${DEPLOY_PRIME_URL}"
+    command = "hugo --gc  -b ${DEPLOY_PRIME_URL}"
 
