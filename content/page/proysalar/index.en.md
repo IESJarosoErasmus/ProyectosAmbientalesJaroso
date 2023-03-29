@@ -1,5 +1,5 @@
 ---
-title: "Salar de los canos"
+title: "Proyect: Salar de los canos"
 date: 2019-05-28
 slug: "canos"
 menu:

@@ -1,5 +1,5 @@
 ---
-title: "Beach project"
+title: "Project: Beach"
 date: 2019-05-28
 slug: "playa"
 menu:
@@ -9,3 +9,6 @@ menu:
             icon: sand
 image: "imagen1.jpg"
 ---
+
+
+En inglés

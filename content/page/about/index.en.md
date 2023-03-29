@@ -15,11 +15,16 @@ menu:
 ---
 
 - **Jaime Usano Alemany**   
-Jefe de departamento de Operaciones de Laboratorio  
-Coordinador de área de FP. IES Jaroso  
+Head of Department of Laboratory Operations 
+Vocational training area coordinator. IES Jaroso  
 <jaime.usano.edu@juntadeandalucia.es>    
+[Google Academic Profile](<https://scholar.google.es/citations?user=mnCnEF8AAAAJ&hl=es>)   
 
 - **Lorena Núñez Álvarez**  
-Profesora CFGM Operaciones de Laboratorio   
-Jefa de estudios nocturnos. IES Jaroso   
+CFGM Professor Laboratory Operations  
+Head of studies at night. IES Jaroso   
 <laboratorio.iesjaroso@gmail.com>  
+
+- **Javier Guillén Benavente**  
+CFGS Professor Web Application Development  
+<jguiben709@g.educaand.es>  

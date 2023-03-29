@@ -1,14 +1,17 @@
 ---
-title: "Proyecto playa"
+title: "Proyecto Playa"
 date: 2022-11-11
 slug: "playa"
 menu:
     main:
-        weight: -70
+        weight: 1
         params: 
             icon: sand
 image: "imagen1.jpg"
 ---
+
+
+La arena es un elemento muy abundante en nuestro planeta, siendo el segundo recurso natural más utilizado. Ésta esconde tesoros en forma de minerales y elementos químicos pero también residuos contaminantes en forma de microplásticos. Este hecho se debe fundamentalmente al incremento imparable en la producción de plásticos que tienen una vida útil muy breve. Nuestros objetivos son utilizar con nuestro alumnado  los recursos que ofrecen los ecosistemas de las playas del levante almeriense como base para realizar procedimientos sencillos de laboratorio adecuados para determinar el contenido en microplásticos. Las metodologías asociadas para la obtención y exposición de los resultados experimentales consisten en técnicas de muestreo, separación, transformación, cuantificación y tratamiento estadístico de datos y son dirigidas por el profesorado del ciclo formativo de grado medio de operaciones de laboratorio.
 
 ## PRIMER RETO. Selección de las playas para su muestreo. Plan de muestreo 
 PROFESOR: Jaime Usano Alemany
@@ -56,3 +59,17 @@ LABORATORIO IES JAROSO
 Av/ Carlos Herrera, 25, 04610, CUEVAS DEL ALMANZORA (ALMERIA)
 Tel. 950 45 17 05 / @
 04002052.laboratorio@g.educaand.es
+
+         
+## TERCER RETO. Tratamiento de las muestras: tamizado, métodos de flotación-filtración
+PROFESOR: Jaime Usano Alemany
+
+### Acondicionamiento.
+Una vez en el laboratorio las muestras se sometieron a un proceso de homogeneización, reducción del tamaño de la muestra por cuarteo y secado en estufa a 50ºC hasta la eliminación de los restos de humedad de la arena.   
+
+### Tamizado y separación de microplásticos por flotación.
+Una vez seca, la arena se sometió a un tamizado para seleccionar, por un lado, la fracción de arena comprendida entre 1,0 y 6,0 mm y, por otro lado, la fracción menor de 1,0 mm. Ambas fracciones fueron pesadas en cada caso para determinar la granulometría de cada una de las playas seleccionadas.
+Finalmente, una masa de aproximadamente 150g compuesta por ambas fracciones fue introducida en probeta de 500mL con una disolución saturada de NaCl. Con este procedimiento se procede a la separación por flotación de los microplásticos contenidos en la arena. A continuación, se deja reposar la muestra durante una hora y se filtra a vacío  el sobrenadante (el agua) a través de un filtro de 0,45 μm. El filtro se conserva en una placa de Petri para su recuento. 
+
+### Recuento de microplásticos
+Para el recuento de los microplásticos, cada uno de los filtros fue visualizado a través de lupas binoculares, fotografiando los microplásticos más llamativos en cada muestra. Todas aquellas partículas y fibras que parecían ser microplásticos fueron contadas utilizando un estadillo estandarizado. 

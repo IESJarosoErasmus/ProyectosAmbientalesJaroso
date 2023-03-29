@@ -18,6 +18,7 @@ menu:
 Jefe de departamento de Operaciones de Laboratorio  
 Coordinador de área de FP. IES Jaroso  
 <jaime.usano.edu@juntadeandalucia.es>    
+[Perfil Google Académico](<https://scholar.google.es/citations?user=mnCnEF8AAAAJ&hl=es>)
 
 - **Lorena Núñez Álvarez**  
 Profesora CFGM Operaciones de Laboratorio   
