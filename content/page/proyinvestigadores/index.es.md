@@ -6,7 +6,7 @@ menu:
     main:
         weight: 3
         params: 
-            icon: flamingo
+            icon: testtube
 image: ""
 
 ---
