@@ -4,7 +4,6 @@ date: 2022-11-11
 image: "imagen1.jpg"
 ---
 
-PÁGINA INICIO 
 
 Bienvenido a la página del IES Jaroso sobre Proyectos Ambientales que lleva a cabo el Departamento de Operaciones de Laboratorio con la colaboración tecnológica del Departamento de Informática.  
   

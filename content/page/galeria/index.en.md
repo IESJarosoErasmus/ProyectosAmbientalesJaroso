@@ -1,7 +1,7 @@
 ---
 title: "Gallery"
 date: 2023-03-24
-slug: "galería"
+slug: "gallery"
 menu:
     main:
         weight: 9

@@ -1,7 +1,7 @@
 ---
-title: "Colaboradores"
+title: "Collaborators"
 date: 2023-03-28
-slug: "colaboradores"
+slug: "collaborators"
 menu:
     main:
         weight: 8

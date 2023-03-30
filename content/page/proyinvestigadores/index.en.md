@@ -1,7 +1,7 @@
 ---
 title: "Project: Meeting with the researchers"
 date: 2022-05-28
-slug: "investigadores"
+slug: "researchers"
 menu:
     main:
         weight: 3

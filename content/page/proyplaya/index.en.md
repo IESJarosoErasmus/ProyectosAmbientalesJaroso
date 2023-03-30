@@ -1,7 +1,7 @@
 ---
 title: "Project: Beach"
 date: 2019-05-28
-slug: "playa"
+slug: "beach"
 menu:
     main:
         weight: -70

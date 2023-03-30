@@ -1,7 +1,7 @@
 ---
-title: "Archivos"
+title: "Documents"
 date: 2023-03-24
-slug: "archivos"
+slug: "documents"
 menu:
     main:
         weight: 9
