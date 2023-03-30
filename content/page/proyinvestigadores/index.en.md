@@ -7,7 +7,7 @@ menu:
         weight: 3
         params: 
             icon: testtube
-image: ""
+image: "imagen1.jpg"
 
 ---
 
