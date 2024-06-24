@@ -140,9 +140,9 @@
     display: none;
     margin: 0 calc(var(--container-padding) * -1);
 
-    padding: 30px 30px;
+    padding: 20px 20px;
     @include respond(xl) {
-        padding: 15px 0;
+        padding: 10px 0;
     }
 
     &,

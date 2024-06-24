@@ -15,7 +15,7 @@ image: ""
 
 * [Microplásticos Plan de muestreo alumnado](/archivos/Microplásticos_Plan_de_muestreo_alumnado.pdf)
 
-* [Informe de muestre Salar de los Canos](/archivos/Salar_de_los_Canos_Informe_de_muestreo.pdf)
+* [Informe de muestreo Salar de los Canos](/archivos/Salar_de_los_Canos_Informe_de_muestreo.pdf)
 
 * [Resultados de laboratorio del Salar de los Canos](/archivos/Salar_de_los_Canos_Resultados_Laboratorio.pdf)
 

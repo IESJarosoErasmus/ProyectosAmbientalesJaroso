@@ -7,11 +7,6 @@ aliases:
   - about-hugo
   - contact
 lastmod: '2023-02-02'
-menu:
-    main: 
-        weight: 5
-        params:
-            icon: user
 ---
 
 - **Jaime Usano Alemany**   

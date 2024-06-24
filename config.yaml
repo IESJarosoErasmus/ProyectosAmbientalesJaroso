@@ -7,7 +7,7 @@ title: Proyectos ambientales IES Jaroso
 languages:
     en:
         languageName: English
-        title: Environmental proyects
+        title: Environmental proyects IES Jaroso
         description: Environmental proyects
         weight: 1
     es:
@@ -103,19 +103,14 @@ params:
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
     main: []
-    playa: []
     social:
-        - identifier: facebook
-          name: Facebook
-          url: 
+        - identifier: nosotros
+          name: Nosotros
+          url: /nosotros
           params:
-              icon: facebook
+              newTab: false
+              icon: our
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: twitter
 
 related:
     includeNewer: true
