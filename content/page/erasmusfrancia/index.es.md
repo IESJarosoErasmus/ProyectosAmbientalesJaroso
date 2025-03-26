@@ -4,7 +4,7 @@ date: 2025-03-15
 slug: "Erasmus"
 menu:
     main:
-        weight: 5
+        weight: 4
         params: 
             icon: fr
 image: "imagen1.jpg"
