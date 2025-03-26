@@ -4,7 +4,7 @@ date: 2024-05-15
 slug: "bilingüe"
 menu:
     main:
-        weight: 1
+        weight: 5
         params: 
             icon: uk
 image: "imagen1.jpg"
