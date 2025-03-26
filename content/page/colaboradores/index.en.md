@@ -23,5 +23,7 @@ Biological Sciences Faculty. Complutense University of Madrid
 <https://www.ucm.es/bee>  
 ![ComplutenseMadrid](/img/colaboradores/3.Complutense.png)
 
-
+* Lycée de l'Escaut - Valenciennes (Francia) 
+<https://www.lycee-escaut.fr/>  
+![l'Escaut](/img/colaboradores/4.LyceeEscaut.png)
 
