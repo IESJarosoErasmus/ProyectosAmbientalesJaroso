@@ -1,6 +1,6 @@
 ---
-title: "Erasmus+ Spain-France"
-date: 2025-03-15
+title: "Erasmus+ Spain-France Laboratory"
+date: 2025-03-20
 slug: "Erasmus"
 menu:
     main:
@@ -10,18 +10,16 @@ menu:
 image: "imagen1.jpg"
 ---
 
-# Visita de Estudiantes de Formación Profesional de Francia al IES Jaroso de Cuevas del Almanzora: Un Intercambio Enriquecedor Bajo el Marco del Programa Erasmus+  
+**Visit of Vocational Education Students from France to IES Jaroso in Cuevas del Almanzora: An Enriching Exchange Under the Erasmus+ Program** 
 
-Durante una semana, el IES Jaroso de Cuevas del Almanzora tuvo el honor de recibir a un grupo de estudiantes de laboratorio de formación profesional provenientes de la localidad de Valenciennes (Francia), concretamente del Lycée de l'Escaut, como parte de un intercambio académico en el marco del programa Erasmus+. Esta visita, cargada de experiencias profesionales y culturales, tuvo como objetivo estrechar lazos entre centros de formación profesional de distintos países, promoviendo la colaboración internacional y el aprendizaje compartido.  
+During a week, IES Jaroso in Cuevas del Almanzora had the honor of welcoming a group of vocational training laboratory students from Valenciennes (France), specifically from Lycée de l'Escaut, as part of an academic exchange within the Erasmus+ program. This visit, rich in professional and cultural experiences, aimed to strengthen ties between vocational training centers from different countries, promoting international collaboration and shared learning.  
 
-El programa se estructuró en torno a una serie de actividades que combinaron el ámbito técnico, cultural y de ocio. Los estudiantes franceses pudieron compartir conocimientos y prácticas con sus homólogos del IES Jaroso, lo que permitió una visión mutua sobre los enfoques de la formación profesional en ambos países. A través de esta interacción, pudimos comparar y enriquecer nuestras  experiencias profesionales, adquiriendo nuevas perspectivas sobre las metodologías y tecnologías que podemos utilizar. Queremos destacar la dimensión cultural del programa, que nos permitió estrechar vínculos personales y profesionales, favoreciendo la creación de una red internacional de contactos que puede ser beneficiosa en su futuro laboral y personal.  
+The program was structured around a series of activities combining technical, cultural, and leisure aspects. The French students had the opportunity to share knowledge and practices with their counterparts at IES Jaroso, allowing for a mutual understanding of vocational training approaches in both countries. Through this interaction, we were able to compare and enrich our professional experiences, gaining new perspectives on the methodologies and technologies we can implement. We would like to highlight the cultural dimension of the program, which allowed us to forge personal and professional bonds, fostering the creation of an international network of contacts that could be beneficial for students' future careers and personal growth.  
 
-Esta visita es un excelente ejemplo de los beneficios que el programa Erasmus+ aporta, no solo en términos académicos, sino también en lo que respecta al desarrollo personal y la creación de lazos entre generaciones y culturas. Sin duda, esta experiencia ha dejado una huella positiva en todos los participantes, y ha reafirmado el compromiso del IES Jaroso con la internacionalización y la calidad educativa.  
+This visit is an excellent example of the benefits that the Erasmus+ program provides, not only in academic terms but also in personal development and in building connections across generations and cultures. Undoubtedly, this experience has left a positive impact on all participants and has reaffirmed IES Jaroso's commitment to internationalization and educational excellence.  
 
 
-![NextGeneration](/img/bilin/logo_next_generation_EU-v3.jpg)
-
-![MinisterioEducacion](/img/bilin/ministerio.png)
+![Erasmus+](/img/erasmus/erasmus.png)
 
 
 
